@@ -1,2 +1,5 @@
-## Activity Snake
-![Snake animation](https://github.com/fyou00/fyou00/blob/output/snake.svg)
+## 🎮 Play Game With Me
+
+<img src="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/snake.svg" alt="Snake animation" />
+
+> 🕹️ *Snake is eating your GitHub contributions!*
