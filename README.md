@@ -1,3 +1,2 @@
-## 🎮 Play Game With Me
-
-<img src="https://raw.githubusercontent.com/fyou00/fyou00/output/snake.svg" alt="Snake animation" />
+## Activity Snake
+![Snake animation](https://github.com/fyou00/fyou00/blob/output/snake.svg)
