@@ -1,5 +1,5 @@
 # About Me:
-Hi, my name is Fathur, an IT student of Politeknik Negeri Lhokseumawe who really enjoys coding, gaming, and trying out new things in technology. I like exploring how things work, especially when it comes to Web Development, Mobile Apps, and Machine Learning (ML/AI). I’m also the type of person who likes to keep digging until I find a solution when I run into a problem. I’m still learning and improving my skills, but I’m always excited to learn something new and work on interesting projects.<br>
+Hi, my name is Muhammad Fathurrahman also knows as Fathur, an IT student of Politeknik Negeri Lhokseumawe who really enjoys coding, gaming, and trying out new things in technology. I like exploring how things work, especially when it comes to Web Development, Mobile Apps, and Machine Learning (ML/AI). I’m also the type of person who likes to keep digging until I find a solution when I run into a problem. I’m still learning and improving my skills, but I’m always excited to learn something new and work on interesting projects.<br>
 
 
 ## 🌐 Socials:
