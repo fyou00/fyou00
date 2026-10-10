@@ -1,11 +1,19 @@
-# About Me:
-Hi, my name is Muhammad Fathurrahman also knows as Fathur, an IT student of Politeknik Negeri Lhokseumawe who really enjoys coding, gaming, and trying out new things in technology. I like exploring how things work, especially when it comes to Web Development, Mobile Apps, and Machine Learning (ML/AI). I’m also the type of person who likes to keep digging until I find a solution when I run into a problem. I’m still learning and improving my skills, but I’m always excited to learn something new and work on interesting projects.<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fyou.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fathurrahman-6a9050362/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadfathurrahman013@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### about
+a normal student who really enjoys coding. mobile developer & ml enthusiast. still learning and improving my skills.
 
 ---
+
+### core skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,dart,js,flutter,laravel,electron,mysql,arduino&theme=dark" alt="core skills" />
+</p>
+
+- **languages**: Python, Dart, JavaScript, C (Basic)
+- **ml & systems**: PyTorch,
+- **backend**: FastAPI, Node.js
+- **databases**: MySQL, PostgreSQL
+- **tools & hardware**: Flutter, Electron, Arduino / ESP32, Git, Docker, Linux
+
+---
+### featured projects
+— coming soon
