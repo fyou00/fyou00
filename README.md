@@ -1,5 +1,5 @@
 ### about
-a normal student who really enjoys coding. mobile developer & ml enthusiast. still learning and improving my skills.
+a normal student who really enjoys coding. experienced in mobile developer & ml enthusiast. still learning and improving my skills.
 
 ---
 
