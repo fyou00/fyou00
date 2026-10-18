@@ -5,7 +5,7 @@ a normal student who really enjoys coding. experienced in mobile developer & ml 
 
 ### core skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,dart,js,flutter,laravel,electron,mysql,arduino&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,dart,js,rust,flutter,laravel,electron,mysql,arduino&theme=dark" alt="core skills" />
 </p>
 
 - **languages**: Python, Dart, JavaScript, C, Rust (currently learning)
