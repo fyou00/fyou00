@@ -8,11 +8,11 @@ a normal student who really enjoys coding. experienced in mobile developer & ml 
   <img src="https://skillicons.dev/icons?i=py,dart,js,flutter,laravel,electron,mysql,arduino&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: Python, Dart, JavaScript, C (Basic)
-- **ml & systems**: PyTorch,
+- **languages**: Python, Dart, JavaScript, C, Rust (currently learning)
+- **ml & systems**: ...
 - **backend**: FastAPI, Node.js
 - **databases**: MySQL, PostgreSQL
-- **tools & hardware**: Flutter, Electron, Arduino / ESP32, Git, Docker, Linux
+- **tools & hardware**: Git, Linux, Flutter, Electron, Arduino / ESP32, Docker 
 
 ---
 ### featured projects
