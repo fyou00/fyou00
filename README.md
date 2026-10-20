@@ -17,3 +17,5 @@ a normal student who really enjoys coding. experienced in mobile developer & ml 
 ---
 ### featured projects
 — coming soon
+- imp app
+  simple image processing app, such as rgb2gray converter.
