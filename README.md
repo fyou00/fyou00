@@ -20,7 +20,7 @@ a normal student who really enjoys coding. experienced in mobile developer & ml 
 simple image processing app, such as rgb2gray converter.
 
 #### 2. hand pong
-ping pong games hand tracking for controlling the ball, available solo & 2-player mode.
+hand-tracking pong game with solo & two-player modes.
 
 #### 3. pnl-obe
 a web app for measuring and tracking student learning outcomes.
