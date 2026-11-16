@@ -19,5 +19,10 @@ a normal student who really enjoys coding. experienced in mobile developer & ml 
 #### 1. imp app
 simple image processing app, such as rgb2gray converter.
 
-#### 2. ...
+#### 2. hand pong
+ping pong games hand tracking for controlling the ball, available solo & 2-player mode.
+
+#### 3. pnl-obe
+a web app for measuring and tracking student learning outcomes.
+
 — coming soon 
