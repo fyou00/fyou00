@@ -25,4 +25,7 @@ hand-tracking pong game with solo & two-player modes.
 #### 3. pnl-obe
 a web app for measuring and tracking student learning outcomes.
 
+#### 4. truescan
+web based document-scanning app to digitize physical paper into PDF or PNG files.
+
 — coming soon 
